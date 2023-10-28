@@ -1,7 +1,7 @@
 # Age Timer Desktop App
 
 > A simple desktop app that counts your age in real-time.
-___
+
 ![demo-image](https://github.com/dhextras/group-chat-firebase/assets/104954857/1b56d7d1-17de-4d6c-9711-5650c17c7698)
 ---
 
