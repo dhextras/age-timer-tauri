@@ -1,6 +1,9 @@
 # Age Timer Desktop App
 
 > A simple desktop app that counts your age in real-time.
+___
+![demo-image](https://github.com/dhextras/group-chat-firebase/assets/104954857/1b56d7d1-17de-4d6c-9711-5650c17c7698)
+---
 
 This desktop application is a Tauri-based project that calculates your age and displays it in real-time. It was originally cloned from [Jack Liang's GitHub repository](https://github.com/jacky-liang/age-timer), and it's available at GitHub page [here](https://jacky-liang.github.io/age-timer/). I've made a few modifications to enhance its functionality.
 
