@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhextras%2Fage-timer-tauri%2F&count_bg=%2367D08D&title_bg=%236F6F6F&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Age Timer Desktop App
 
 > A simple desktop app that counts your age in real-time.
